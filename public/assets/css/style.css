@@ -26,9 +26,6 @@ img.max-img {
 	height:auto;
 }
 
-.row {
-	margin-bottom:30px;
-}
 
 header .cbp-af-header .row {
 	margin-bottom:0;
@@ -1843,7 +1840,7 @@ footer .footerlogo h6 a:hover {
 }
 
 footer {
-	padding-top:30px;
+	padding-top:10px;
 	color:#7e7e7e;
 }
 
@@ -1860,7 +1857,7 @@ footer .block-a {
 }
 
 footer .subfooter {
-	padding-top:40px;
+	padding-top:20px;
 	background:#222;
 }
 
